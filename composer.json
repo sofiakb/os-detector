@@ -20,5 +20,7 @@
     "minimum-stability": "stable",
     "require-dev": {
         "phpunit/phpunit": "^9.5"
-    }
+    },
+    "version": "v0.0.1-dev",
+    "time": "2021-07-05"
 }
