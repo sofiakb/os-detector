@@ -14,9 +14,14 @@
     "authors": [
         {
             "name": "Sofiakb",
-            "email": "contact.sofiakb@gmail.com"
+            "email": "contact.sofiakb@gmail.com",
+            "homepage": "https://sofianeakbly.fr",
+            "role": "Developer"
         }
     ],
+    "support": {
+        "email": "contact.sofiakb@gmail.com"
+    },
     "minimum-stability": "stable",
     "require-dev": {
         "phpunit/phpunit": "^9.5"
